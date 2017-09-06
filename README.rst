@@ -10,6 +10,8 @@ Features
 Caveats
 =======
 
+* Requires Go 1.9 or newer (due to use of type aliases).
+
 Installation
 ============
 
