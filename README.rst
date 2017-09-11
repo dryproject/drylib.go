@@ -54,28 +54,28 @@ Reference
 ``core``
 --------
 
-================= ==============================================================
-DRY Symbol        Go Symbol
-================= ==============================================================
-``core.bool``     ``dry.Bool`` (type alias for ``bool``)
-``core.char``     ``dry.Char`` (type alias for ``rune``)
-``core.complex``  ``dry.Complex`` (struct)
-``core.float``    ``dry.Float`` (type alias for ``float64``)
-``core.float32``  ``dry.Float32`` (type alias for ``float32``)
-``core.float64``  ``dry.Float64`` (type alias for ``float64``)
-``core.int``      ``dry.Int`` (type alias for ``int``)
-``core.int8``     ``dry.Int8`` (type alias for ``int8``)
-``core.int16``    ``dry.Int16`` (type alias for ``int16``)
-``core.int32``    ``dry.Int32`` (type alias for ``int32``)
-``core.int64``    ``dry.Int64`` (type alias for ``int64``)
-``core.int128``   ``dry.Int128`` (type alias for ``Integer``)
-``core.integer``  ``dry.Integer`` (struct)
-``core.natural``  ``dry.Natural`` (type alias for ``Integer``)
-``core.rational`` ``dry.Rational`` (struct)
-``core.real``     ``dry.Real`` (struct)
-``core.word``     ``dry.Word`` (type alias for ``uint``)
-``core.word8``    ``dry.Word8`` (type alias for ``uint8``)
-``core.word16``   ``dry.Word16`` (type alias for ``uint16``)
-``core.word32``   ``dry.Word32`` (type alias for ``uint32``)
-``core.word64``   ``dry.Word64`` (type alias for ``uint64``)
-================= ==============================================================
+=============== ================================================================
+DRY Symbol      Go Symbol
+=============== ================================================================
+``bool``        ``dry.Bool`` (type alias for ``bool``)
+``char``        ``dry.Char`` (type alias for ``rune``)
+``complex``     ``dry.Complex`` (struct)
+``float``       ``dry.Float`` (type alias for ``float64``)
+``float32``     ``dry.Float32`` (type alias for ``float32``)
+``float64``     ``dry.Float64`` (type alias for ``float64``)
+``int``         ``dry.Int`` (type alias for ``int``)
+``int8``        ``dry.Int8`` (type alias for ``int8``)
+``int16``       ``dry.Int16`` (type alias for ``int16``)
+``int32``       ``dry.Int32`` (type alias for ``int32``)
+``int64``       ``dry.Int64`` (type alias for ``int64``)
+``int128``      ``dry.Int128`` (type alias for ``dry.Integer``)
+``integer``     ``dry.Integer`` (struct)
+``natural``     ``dry.Natural`` (type alias for ``dry.Integer``)
+``rational``    ``dry.Rational`` (struct)
+``real``        ``dry.Real`` (struct)
+``word``        ``dry.Word`` (type alias for ``uint``)
+``word8``       ``dry.Word8`` (type alias for ``uint8``)
+``word16``      ``dry.Word16`` (type alias for ``uint16``)
+``word32``      ``dry.Word32`` (type alias for ``uint32``)
+``word64``      ``dry.Word64`` (type alias for ``uint64``)
+=============== ================================================================
