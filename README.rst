@@ -12,7 +12,7 @@ DRYlib for Go
 
 .. image:: https://img.shields.io/badge/godoc-reference-blue.svg
    :alt: GoDoc reference
-   :target: https://godoc.org/github.com/dryproject/drylib.go
+   :target: https://godoc.org/github.com/dryproject/drylib.go/dry
 
 .. image:: https://goreportcard.com/badge/github.com/dryproject/drylib.go
    :alt: Go Report Card score
