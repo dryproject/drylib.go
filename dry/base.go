@@ -56,6 +56,9 @@ type Integer struct {
 	value int64 // FIXME
 }
 
+// Natural number (native size)
+type Nat = int
+
 // Natural number (arbitrary size)
 type Natural = Integer
 
