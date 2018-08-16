@@ -1,0 +1,13 @@
+/* This is free and unencumbered software released into the public domain. */
+
+// Package ascii provides ASCII text processing.
+package ascii
+
+////////////////////////////////////////////////////////////////////////////////
+// Constants
+
+////////////////////////////////////////////////////////////////////////////////
+// Type Definitions
+
+// String represents ASCII strings.
+type String = string
