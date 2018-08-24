@@ -73,6 +73,9 @@ type Real = struct {
 	value Float64 // FIXME
 }
 
+// String
+type String = string
+
 // Machine word (native size)
 type Word = uint
 
